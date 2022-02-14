@@ -1,2 +1,2 @@
 # C---Final-Project
-Set B
+Completed Set B in Final Project assignment.
